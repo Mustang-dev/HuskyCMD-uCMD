@@ -1,0 +1,40 @@
+main: dev.husky.devCMDMain
+version: 1.0
+Author: Pyc Paint AlX
+name: HuskyCMD
+
+commands:
+  huskycmd:
+   description: the huskycmd command
+   aliases: [huskyc, husky]
+  discord:
+   description: the huskycmd discord
+   aliases: [discorde, dc]
+  store:
+   description: the huskycmd store of ser
+   aliases: [str, stor, webstore, tebx]
+  teamspeak:
+   description: the huskycmd ts3
+   aliases: [ts, ts3, tss]
+  website:
+   description: the huskycmd discord
+   aliases: [web, webe]
+  gamemode:
+   description: the huskycmd gm
+   aliases: [gm, gamemd, huskygm]
+  fly:
+   description: the huskycmd discord
+   aliases: [flyc, huskyfly, flp]
+  teleportall:
+   description: the huskycmd discord
+   aliases: [tpall, tpalll, teleporall, huskytpall, ssall, huskycmdall]
+  teleporth:
+   description: the huskycmd tp
+   aliases: [tp, tpp, tpto, teleportto]
+  teleporthere:
+   description: the huskycmd tp
+   aliases: [tphere, s, tptome, tph]
+
+
+  
+ 

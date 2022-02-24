@@ -1,0 +1,73 @@
+#=====================================================================
+#  /$$   /$$                     /$$                  /$$$$$$  /$$      /$$ /$$$$$$$ 
+# | $$  | $$                    | $$                 /$$__  $$| $$$    /$$$| $$__  $$
+# | $$  | $$ /$$   /$$  /$$$$$$$| $$   /$$ /$$   /$$| $$  \__/| $$$$  /$$$$| $$  \ $$
+# | $$$$$$$$| $$  | $$ /$$_____/| $$  /$$/| $$  | $$| $$      | $$ $$/$$ $$| $$  | $$
+# | $$__  $$| $$  | $$|  $$$$$$ | $$$$$$/ | $$  | $$| $$      | $$  $$$| $$| $$  | $$
+# | $$  | $$| $$  | $$ \____  $$| $$_  $$ | $$  | $$| $$    $$| $$\  $ | $$| $$  | $$
+# | $$  | $$|  $$$$$$/ /$$$$$$$/| $$ \  $$|  $$$$$$$|  $$$$$$/| $$ \/  | $$| $$$$$$$/
+# |__/  |__/ \______/ |_______/ |__/  \__/ \____  $$ \______/ |__/     |__/|_______/ 
+#                                          /$$  | $$                                 
+#                                         |  $$$$$$/                                 
+#                                          \______/                                  
+#=====================================================================
+# Author: zLexDev
+# Discord: ZYS_zLexDev#7967
+#=====================================================================
+# dev: HuskyCMD
+# discord: https://discord.gg/fyTJS2d9C9
+#=====================================================================
+
+# Use for your server discord Please if your server not have discord use:
+# 'The server dont' have discord '
+discord-msg: '&7The discord server &9&lDiscord: &7https://discord.gg/fyTJS2d9C9'
+
+# Use for your server (store) Please if you not have store use:
+#'The server dont' have store '
+store-msg: '&7The &cStore &7server  &c&lStore: &7https://huskycommunity.tebex.io/'
+
+# Use for your server (teamspeak) Please if you not have teamspeak use:
+#'The server dont' have teamspeak '
+teamspeak-msg: '&7 the server &3teamspeak &3&lTeamspeak: &7ts.huskyoperations.com '
+
+# Use for your server (web) Please if you not have web use:
+#'The server dont' have web '
+website-msg: '&7 the server &awebsite  &aWebsite: &7www.huskycommunity.com '
+
+
+#=======================================================================
+#                       ---Husky Comun Messages---
+# The Plugin don't have Variables, if you want variables need Buy the Hub
+# To be More Combination and The best Usage for HuskyCMD
+
+
+#Fly message is the message to fly in moment use /fly you can edit :D!
+fly-enable-msg: '&7[&fHusky&aCMD&7] &fEl &cFly &f is now enabled'
+fly-disable-msg: '&7[&fHusky&aCMD&7] &fEl &cFly &f is now disable'
+
+#Teleport Message of the Commands in moment use /tpall, /tp, /tphere
+# You can Edit the Message :D!
+tp-all-msg: '&7[&fHusky&aCMD&7] &bTeleporting &cAll &bPlayers'
+tp-msg: '&7[&fHusky&aCMD&7] &bTeleporting...'
+
+# WRONG USER TO TP MESSAGE EXAMPLE:
+# '&bThis user is not conected' 
+tp-wrong-msg: '&7[&fHusky&aCMD&7] &cWrong TP Command User or Type'
+
+# Tphere Command Message to be teleported
+tp-s-msg: '&7[&fHusky&aCMD&7] &fTeleporting &cPlayer...'
+
+
+#=======================================================================
+#                          Gamemode Messages
+# Use Gamemode Messages for best Usage the gamemodes, you can edit :D!
+
+
+#The Gamemode CREATIVE message in changed
+gamemode-c-msg: '&7[&fHusky&aCMD&7] &fGamemode &cChanged to &fCreative!'
+
+# The Gamemode Survival message in changed
+gamemode-s-msg: '&7[&fHusky&aCMD&7] &fGamemode &cChanged to &f Survival'
+
+# The Gamemode Adventure message in changed
+gamemode-a-msg: '&7[&fHusky&aCMD&7] &fGamemode &cChanged to &fAdventure!'
